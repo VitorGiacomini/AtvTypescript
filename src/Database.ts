@@ -5,7 +5,7 @@ const connectionConfig = {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'bancots'
+    database: 'bancoaula'
 }
 
 async function connect() {
